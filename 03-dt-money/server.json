@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-09-20T21:39:58.895Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-09-20T20:39:58.895Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-09-20T21:39:58.895Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-09-20T20:39:58.895Z"
+    },
+    {
+      "description": "dev de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-10-07T14:15:48.364Z",
+      "id": 3
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-10-07T14:30:03.510Z",
+      "id": 4
+    }
+  ]
 }
